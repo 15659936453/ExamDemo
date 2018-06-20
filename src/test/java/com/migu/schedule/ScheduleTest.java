@@ -8,7 +8,9 @@ import org.junit.Test;
 
 import com.migu.schedule.constants.ReturnCodeKeys;
 import com.migu.schedule.info.TaskInfo;
-
+/*
+ *@TaskInfo
+ */
 public class ScheduleTest
     {
     /**
